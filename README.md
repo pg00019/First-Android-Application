@@ -4,8 +4,10 @@ This application contains a page which allows the user to **enter any random mes
 When the user clicks the **Send** button then displays the message in a differnt page.
 
 <b>Sample <b>
+  <table>
   <tr>
     <td><img src="first.jpeg">
       <td><img src ="second.jpeg">
   </tr>
       
+</table>
