@@ -6,5 +6,6 @@ When the user clicks the **Send** button then displays the message in a differnt
 <b>Sample <b>
   <tr>
     <td><img src="first.jpeg">
-      <td><img src ="">
+      <td><img src ="second.jpeg">
+  </tr>
       
